@@ -10,7 +10,7 @@ This web application displays lists of board games and their reviews. While anyo
   <img src="./Documents/board-game-workflow.drawio.png" alt="Logo" width="100%" height="100%">
 </div>
 
-## Implementation PDF: [Click here! ](https://drive.google.com/file/d/1vxtS0wclQ5vZEtrPLLNw8HMmr8K_vh9m/view?usp=sharing)
+## Implementation PDF: [Click here! ](https://drive.google.com/file/d/1y45F4drh8qJTG7sIcsJ33KcGZyKKLJoF/view?usp=sharing)
 
 
 
