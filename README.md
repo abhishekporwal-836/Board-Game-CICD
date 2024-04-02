@@ -6,7 +6,8 @@
 This web application displays lists of board games and their reviews. While anyone can view the board game lists and reviews, they are required to log in to add/ edit the board games and their reviews. The 'users' have the authority to add board games to the list and add reviews, and the 'managers' have the authority to edit/ delete the reviews on top of the authorities of users.  
 
 
-## Implementation PDF: [Click here! ](https://drive.google.com/file/d/1y45F4drh8qJTG7sIcsJ33KcGZyKKLJoF/view?usp=sharing)
+# Implementation PDF: [Click here! ](https://drive.google.com/file/d/1y45F4drh8qJTG7sIcsJ33KcGZyKKLJoF/view?usp=sharing)
+The application was deployed on AWS using Kubernetes for orchestration, with Calico networking and NGINX Ingress Controller managing traffic. Security was ensured with Kubeaudit. SonarQube and Nexus servers were employed for code quality and artifact management. Jenkins orchestrated continuous integration and deployment. Prometheus, Grafana, and Black Box Exporter monitored performance and provided insights.
 
 ## Architecture Diagram
 <div align="center">
