@@ -11,7 +11,7 @@ The application was deployed on AWS using Kubernetes for orchestration, with Cal
 
 ## Architecture Diagram
 <div align="center">
-  <img src="./Documents/board-game-workflow.drawio.png" alt="Logo" width="100%" height="100%">
+  <img src="./Documents/architecture.jpg" alt="Logo" width="100%" height="100%">
 </div>
 
 
